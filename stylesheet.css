@@ -428,7 +428,7 @@ header h1 {
   padding: 8px;
   border-radius: 20px;
   text-shadow: 6px 9px rgb(145, 145, 145);
-  backdrop-filter: blur(5px);
+  
   opacity: 1; /* Start with 0 opacity */
   transition: font-size 1s, opacity 1s;
 }
