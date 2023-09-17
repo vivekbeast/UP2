@@ -407,7 +407,6 @@ header h1 {
   justify-content: center;
   text-align: center;
   align-items: center;
-  /* backdrop-filter: blur(3px); */
 
 }
 /* .landpage div h1{
@@ -430,7 +429,6 @@ header h1 {
   text-shadow: 6px 9px rgb(145, 145, 145);
   
   opacity: 1; /* Start with 0 opacity */
-  transition: font-size 1s, opacity 1s;
 }
 
 
@@ -449,7 +447,6 @@ header h1 {
   justify-content: center;
   text-align: center;
   padding: 4px;
-  backdrop-filter: blur(1.4px);
 }
 /* font-family: 'Lilita One', cursive;
 font-family: 'Martian Mono', monospace;
