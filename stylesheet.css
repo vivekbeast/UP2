@@ -409,30 +409,16 @@ header h1 {
   align-items: center;
 
 }
-/* .landpage div h1{
-  font-size: 56px;
-  font-family:  'Ubuntu', sans-serif;
-  color: #0e0e0e;
-  
-  padding: 8px;
-  border-radius: 20px;
-  backdrop-filter: blur(5px);
-} */
 
-/* Define initial styles */
 .landpage div h1 {
-  font-size: 56px; /* Start with 0 font size */
+  font-size: 56px; 
   font-family: 'Ubuntu', sans-serif;
   color: rgb(237, 237, 237);
   padding: 8px;
   border-radius: 20px;
   text-shadow: 6px 9px rgb(145, 145, 145);
   
-  opacity: 1; /* Start with 0 opacity */
 }
-
-
-
 
 
 
@@ -440,7 +426,6 @@ header h1 {
 .landpage div p{
   font-size: 17px;
   font-family: 'Martian Mono', monospace;
-  /* border-radius: 10px; */
   color: white;
   width: 80%;
   display: flex;
